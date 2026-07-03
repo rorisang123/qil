@@ -1,0 +1,9 @@
+Flask==3.0.*
+Werkzeug==3.0.*
+torch
+diffusers
+transformers
+psd-tools
+Pillow
+htmx==1.9.*  # or include via CDN
+gunicorn
